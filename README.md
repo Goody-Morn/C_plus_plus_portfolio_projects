@@ -1,2 +1,2 @@
-# c-_portfolio_projects
+# C_plus_plus_portfolio_projects
 Projects (IT Step Academy)
